@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ranco-4bb3b2ef.zappy5.app/sitemap.xml
